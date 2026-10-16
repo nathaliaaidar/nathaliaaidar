@@ -92,7 +92,7 @@ Turning research into tools clinics can actually use.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nathaliaaidar&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaaidar&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
